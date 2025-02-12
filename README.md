@@ -1,4 +1,4 @@
-# Welcome to Telegram Bot Service🚀
+# Welcome to Solana Bot Service🚀
 
 We are excited to introduce our comprehensive Solana Bot Services designed to empower traders, investors, and blockchain enthusiasts with the most advanced, high-performance tools on the market. Our suite of cutting-edge solutions ensures you stay ahead in the fast-paced world of cryptocurrency trading. 
 
