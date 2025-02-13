@@ -46,11 +46,8 @@ Automate your token swaps on Raydium for faster and more efficient trading.
 - **✨ Pumpfun Auto Trading Bot**  
 Automate your trading strategy to maximize profits through intelligent, real-time market execution.
 
-- **✨ Meteora DLMM**  
-Optimize liquidity mining strategies and stay on top of your DeFi investments with our DLMM tool.
-
-- **✨ DYN Volume Bot**  
-Get dynamic volume insights across multiple assets to capitalize on high-trade moments.
+- **✨ Meteora DLMM, DYN Volume Bot**  
+Optimize liquidity mining strategies and stay on top of your DeFi investments with our DLMM tool & Get dynamic volume insights across multiple assets to capitalize on high-trade moments.
 
 - **✨ Maker Bot**  
 Automate the creation and management of market-making strategies to ensure liquidity and profit in volatile markets.
